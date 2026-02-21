@@ -1,0 +1,17 @@
+{
+  "name": "gestion_paquetes_externos",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+  "start": "node app.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "dayjs": "^1.11.19"
+  }
+}
